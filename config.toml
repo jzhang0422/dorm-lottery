@@ -1,0 +1,10 @@
+[general]
+email = ""
+
+[browser]
+gatherUsageStats = false
+showFooter = false
+
+[client]
+showSidebarNavigation = true
+toolbarMode = "minimal"
